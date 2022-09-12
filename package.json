@@ -1,0 +1,22 @@
+{
+  "name": "ejercicio-09.06",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gemix15/openbootcamp-js-session9.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gemix15/openbootcamp-js-session9/issues"
+  },
+  "homepage": "https://github.com/gemix15/openbootcamp-js-session9#readme",
+  "dependencies": {
+    "winston": "^3.8.2"
+  }
+}
